@@ -1,17 +1,7 @@
 import pandas as pd
 
 
-
-
-
-
 df = pd.DataFrame(pd.read_csv("Analysis-Data/converted.csv"))
-
-# # initialize list of lists
-# data = [['tom', 10], ['nick', 15], ['juli', 14]]
-#
-# # Create the pandas DataFrame
-# df = pd.DataFrame(data, columns=['Name', 'Age'])
 
 data = {}
 
@@ -38,4 +28,3 @@ for i, row in df2.iterrows():
     print(row.values)
 
 export_csv = df2.to_csv('Analysis-Data/income-and-religion.csv')
-
