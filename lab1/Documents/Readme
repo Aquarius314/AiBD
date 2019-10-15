@@ -1,0 +1,10 @@
+Importowalny plik powstał poprzez uruchomienie skryptu run.bash - konwertuje on plik pew.sav na converted.csv.
+
+W katalogu Command-Files mamy trzy pliki:
+1. convert.r - skrypt w języku R do konwertowania pliku pew.sav na .csv
+2. run.bash - skrypt w bashu do uruchamiania skryptu convert.r
+3. main.py - skrypt w Pythonie do przetwarzania danych
+
+W katalogu Analysis-Data znajdują się dwa pliki:
+1. converted.csv - oryginalne dane przekonwertowane na format .csv
+2. income-and-religion.csv - wynik przetwarzania danych

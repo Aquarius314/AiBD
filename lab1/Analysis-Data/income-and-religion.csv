@@ -1,0 +1,240 @@
+,Income,Religion,Count
+0,"$150,000 or more", Agnostic (not sure if there is a God) ,9
+1,"$150,000 or more", Atheist (do not believe in God) ,24
+2,"$150,000 or more", Buddhist ,25
+3,"$150,000 or more", Christian (VOL) ,18
+4,"$150,000 or more", Christian Scientists (VOL) ,5
+5,"$150,000 or more", Don’t know/Refused (VOL) ,14
+6,"$150,000 or more"," Eclectic, a bit of everything, own beliefs (VOL) ",1
+7,"$150,000 or more", Hindu ,53
+8,"$150,000 or more", Jehovah’s Witness (VOL) ,8
+9,"$150,000 or more", Jewish (Judaism) ,160
+10,"$150,000 or more", Liberal faith (VOL) ,1
+11,"$150,000 or more", Mixed Christian and non-Christian (VOL) ,4
+12,"$150,000 or more"," Mixed Christians (e.g., Catholic AND Protestant) (VOL) ",1
+13,"$150,000 or more", Mormon (Church of Jesus Christ of Latter-day Saints/LDS) ,43
+14,"$150,000 or more", Muslim (Islam) ,8
+15,"$150,000 or more", Native American Religions (VOL) ,1
+16,"$150,000 or more", Not Interpretable ,2
+17,"$150,000 or more", Nothing in particular ,123
+18,"$150,000 or more"," Orthodox (Greek, Russian, or some other orthodox church) ",39
+19,"$150,000 or more", Protestant ,1247
+20,"$150,000 or more", Religious science (VOL) ,1
+21,"$150,000 or more", Roman Catholic ,808
+22,"$150,000 or more", Sikh (VOL) ,1
+23,"$150,000 or more", Unitarian (Universalist) (VOL) ,9
+24,"$150,000 or more", Wica (Wiccan) (VOL) ,1
+25,"$150,000 or more", Zoroastrianism (VOL) ,2
+26,"10 to under $20,000", Agnostic (not sure if there is a God) ,2
+27,"10 to under $20,000", Atheist (do not believe in God) ,8
+28,"10 to under $20,000", Buddhist ,8
+29,"10 to under $20,000", Christian (VOL) ,21
+30,"10 to under $20,000", Christian Scientists (VOL) ,3
+31,"10 to under $20,000", Don’t know/Refused (VOL) ,10
+32,"10 to under $20,000", Greek rite Catholic (VOL) ,1
+33,"10 to under $20,000", Hindu ,10
+34,"10 to under $20,000", Jehovah’s Witness (VOL) ,21
+35,"10 to under $20,000", Jewish (Judaism) ,23
+36,"10 to under $20,000"," Mixed Christians (e.g., Catholic AND Protestant) (VOL) ",2
+37,"10 to under $20,000", Mormon (Church of Jesus Christ of Latter-day Saints/LDS) ,38
+38,"10 to under $20,000", Muslim (Islam) ,5
+39,"10 to under $20,000", Native American Religions (VOL) ,1
+40,"10 to under $20,000", New Apostolic Church (VOL) ,1
+41,"10 to under $20,000", Not Interpretable ,2
+42,"10 to under $20,000", Nothing in particular ,161
+43,"10 to under $20,000"," Orthodox (Greek, Russian, or some other orthodox church) ",14
+44,"10 to under $20,000", Protestant ,1634
+45,"10 to under $20,000", Religious science (VOL) ,1
+46,"10 to under $20,000", Roman Catholic ,813
+47,"10 to under $20,000", Unitarian (Universalist) (VOL) ,1
+48,"10 to under $20,000", Wica (Wiccan) (VOL) ,1
+49,"100 to under $150,000", Agnostic (not sure if there is a God) ,5
+50,"100 to under $150,000", Atheist (do not believe in God) ,15
+51,"100 to under $150,000", Buddhist ,18
+52,"100 to under $150,000", Christian (VOL) ,15
+53,"100 to under $150,000", Christian Scientists (VOL) ,5
+54,"100 to under $150,000", Don’t know/Refused (VOL) ,10
+55,"100 to under $150,000", Hindu ,48
+56,"100 to under $150,000", Jehovah’s Witness (VOL) ,11
+57,"100 to under $150,000", Jewish (Judaism) ,101
+58,"100 to under $150,000", Mixed Christian and non-Christian (VOL) ,1
+59,"100 to under $150,000", Mixed non-Christians (VOL) ,1
+60,"100 to under $150,000", Mormon (Church of Jesus Christ of Latter-day Saints/LDS) ,48
+61,"100 to under $150,000", Muslim (Islam) ,7
+62,"100 to under $150,000", Not Interpretable ,1
+63,"100 to under $150,000", Nothing in particular ,161
+64,"100 to under $150,000"," Orthodox (Greek, Russian, or some other orthodox church) ",43
+65,"100 to under $150,000", Protestant ,1615
+66,"100 to under $150,000", Roman Catholic ,1080
+67,"100 to under $150,000", Unitarian (Universalist) (VOL) ,12
+68,"20 to under $30,000", Agnostic (not sure if there is a God) ,5
+69,"20 to under $30,000", Atheist (do not believe in God) ,7
+70,"20 to under $30,000", Buddhist ,9
+71,"20 to under $30,000", Christian (VOL) ,38
+72,"20 to under $30,000", Christian Scientists (VOL) ,4
+73,"20 to under $30,000", Don’t know/Refused (VOL) ,16
+74,"20 to under $30,000"," Eclectic, a bit of everything, own beliefs (VOL) ",1
+75,"20 to under $30,000", Hindu ,4
+76,"20 to under $30,000", Jains (VOL) ,1
+77,"20 to under $30,000", Jehovah’s Witness (VOL) ,13
+78,"20 to under $30,000", Jewish (Judaism) ,31
+79,"20 to under $30,000", Mormon (Church of Jesus Christ of Latter-day Saints/LDS) ,52
+80,"20 to under $30,000", Muslim (Islam) ,9
+81,"20 to under $30,000", Native American Religions (VOL) ,1
+82,"20 to under $30,000", New Age (VOL) ,1
+83,"20 to under $30,000", Not Interpretable ,2
+84,"20 to under $30,000", Nothing in particular ,190
+85,"20 to under $30,000"," Orthodox (Greek, Russian, or some other orthodox church) ",23
+86,"20 to under $30,000", Pagan (VOL) ,1
+87,"20 to under $30,000", Protestant ,2007
+88,"20 to under $30,000", Roman Catholic ,937
+89,"20 to under $30,000", Spiritual but not religious (VOL) ,1
+90,"20 to under $30,000", Swedenborgian (VOL) ,1
+91,"20 to under $30,000", Unitarian (Universalist) (VOL) ,2
+92,"20 to under $30,000", Zoroastrianism (VOL) ,1
+93,"30 to under $40,000", Agnostic (not sure if there is a God) ,7
+94,"30 to under $40,000", Atheist (do not believe in God) ,18
+95,"30 to under $40,000", Buddhist ,11
+96,"30 to under $40,000", Christian (VOL) ,23
+97,"30 to under $40,000", Christian Scientists (VOL) ,5
+98,"30 to under $40,000", Don’t know/Refused (VOL) ,12
+99,"30 to under $40,000"," Eclectic, a bit of everything, own beliefs (VOL) ",1
+100,"30 to under $40,000", Hindu ,6
+101,"30 to under $40,000", Jehovah’s Witness (VOL) ,14
+102,"30 to under $40,000", Jewish (Judaism) ,34
+103,"30 to under $40,000", Messianic Jews (Jews for Jesus) (VOL) ,1
+104,"30 to under $40,000"," Mixed Christians (e.g., Catholic AND Protestant) (VOL) ",4
+105,"30 to under $40,000", Mormon (Church of Jesus Christ of Latter-day Saints/LDS) ,48
+106,"30 to under $40,000", Muslim (Islam) ,4
+107,"30 to under $40,000", Native American Religions (VOL) ,1
+108,"30 to under $40,000", Nothing in particular ,192
+109,"30 to under $40,000"," Orthodox (Greek, Russian, or some other orthodox church) ",33
+110,"30 to under $40,000", Protestant ,1973
+111,"30 to under $40,000", Roman Catholic ,906
+112,"30 to under $40,000", Shamanism (non-Western) (VOL) ,1
+113,"30 to under $40,000", Spiritual but not religious (VOL) ,1
+114,"30 to under $40,000", Unitarian (Universalist) (VOL) ,7
+115,"40 to under $50,000", Agnostic (not sure if there is a God) ,8
+116,"40 to under $50,000", Atheist (do not believe in God) ,9
+117,"40 to under $50,000", Buddhist ,11
+118,"40 to under $50,000", Christian (VOL) ,28
+119,"40 to under $50,000", Christian Scientists (VOL) ,1
+120,"40 to under $50,000", Don’t know/Refused (VOL) ,19
+121,"40 to under $50,000"," Eclectic, a bit of everything, own beliefs (VOL) ",1
+122,"40 to under $50,000", Hindu ,11
+123,"40 to under $50,000", Jehovah’s Witness (VOL) ,13
+124,"40 to under $50,000", Jewish (Judaism) ,33
+125,"40 to under $50,000", Liberal faith (VOL) ,1
+126,"40 to under $50,000"," Mixed Christians (e.g., Catholic AND Protestant) (VOL) ",3
+127,"40 to under $50,000", Mormon (Church of Jesus Christ of Latter-day Saints/LDS) ,60
+128,"40 to under $50,000", Muslim (Islam) ,8
+129,"40 to under $50,000", Native American Religions (VOL) ,1
+130,"40 to under $50,000", Not Interpretable ,1
+131,"40 to under $50,000", Nothing in particular ,172
+132,"40 to under $50,000"," Orthodox (Greek, Russian, or some other orthodox church) ",28
+133,"40 to under $50,000", Pagan (VOL) ,1
+134,"40 to under $50,000", Protestant ,1834
+135,"40 to under $50,000", Roman Catholic ,838
+136,"40 to under $50,000", Unitarian (Universalist) (VOL) ,3
+137,"40 to under $50,000", Unity; Unity Church Christ Church Unity (VOL) ,1
+138,"50 to under $75,000", Agnostic (not sure if there is a God) ,19
+139,"50 to under $75,000", Atheist (do not believe in God) ,20
+140,"50 to under $75,000", Buddhist ,19
+141,"50 to under $75,000", Christian (VOL) ,39
+142,"50 to under $75,000", Christian Scientists (VOL) ,11
+143,"50 to under $75,000", Don’t know/Refused (VOL) ,16
+144,"50 to under $75,000", Eckankar (VOL) ,1
+145,"50 to under $75,000"," Eclectic, a bit of everything, own beliefs (VOL) ",1
+146,"50 to under $75,000", Hindu ,32
+147,"50 to under $75,000", International Bible Students (VOL) ,1
+148,"50 to under $75,000", Jehovah’s Witness (VOL) ,32
+149,"50 to under $75,000", Jewish (Judaism) ,103
+150,"50 to under $75,000", Mixed Christian and non-Christian (VOL) ,3
+151,"50 to under $75,000"," Mixed Christians (e.g., Catholic AND Protestant) (VOL) ",7
+152,"50 to under $75,000", Mormon (Church of Jesus Christ of Latter-day Saints/LDS) ,116
+153,"50 to under $75,000", Muslim (Islam) ,14
+154,"50 to under $75,000", National Catholic; Polish National Catholic (VOL) ,1
+155,"50 to under $75,000", Native American Religions (VOL) ,2
+156,"50 to under $75,000", Nothing in particular ,276
+157,"50 to under $75,000"," Orthodox (Greek, Russian, or some other orthodox church) ",49
+158,"50 to under $75,000", Pagan (VOL) ,1
+159,"50 to under $75,000", Protestant ,2886
+160,"50 to under $75,000", Roman Catholic ,1527
+161,"50 to under $75,000", Sikh (VOL) ,1
+162,"50 to under $75,000", Spiritualist (VOL) ,1
+163,"50 to under $75,000", Unitarian (Universalist) (VOL) ,7
+164,"75 to under $100,000", Agnostic (not sure if there is a God) ,6
+165,"75 to under $100,000", Atheist (do not believe in God) ,16
+166,"75 to under $100,000", Buddhist ,20
+167,"75 to under $100,000", Christian (VOL) ,29
+168,"75 to under $100,000", Christian Scientists (VOL) ,5
+169,"75 to under $100,000", Don’t know/Refused (VOL) ,8
+170,"75 to under $100,000"," Eclectic, a bit of everything, own beliefs (VOL) ",1
+171,"75 to under $100,000", Hindu ,48
+172,"75 to under $100,000", Humanist (VOL) ,1
+173,"75 to under $100,000", Jehovah’s Witness (VOL) ,20
+174,"75 to under $100,000", Jewish (Judaism) ,91
+175,"75 to under $100,000", Mixed Christian and non-Christian (VOL) ,3
+176,"75 to under $100,000"," Mixed Christians (e.g., Catholic AND Protestant) (VOL) ",1
+177,"75 to under $100,000", Mormon (Church of Jesus Christ of Latter-day Saints/LDS) ,92
+178,"75 to under $100,000", Muslim (Islam) ,15
+179,"75 to under $100,000", National Catholic; Polish National Catholic (VOL) ,1
+180,"75 to under $100,000", Native American Religions (VOL) ,2
+181,"75 to under $100,000", Nothing in particular ,210
+182,"75 to under $100,000"," Orthodox (Greek, Russian, or some other orthodox church) ",40
+183,"75 to under $100,000", Protestant ,2120
+184,"75 to under $100,000", Roman Catholic ,1251
+185,"75 to under $100,000", Scientology (VOL) ,1
+186,"75 to under $100,000", Shamanism (non-Western) (VOL) ,1
+187,"75 to under $100,000", Sikh (VOL) ,1
+188,"75 to under $100,000", Spiritualist (VOL) ,1
+189,"75 to under $100,000", Unitarian (Universalist) (VOL) ,6
+190,Don't know/Refused (VOL.), Agnostic (not sure if there is a God) ,13
+191,Don't know/Refused (VOL.), Atheist (do not believe in God) ,35
+192,Don't know/Refused (VOL.), Buddhist ,21
+193,Don't know/Refused (VOL.), Christian (VOL) ,94
+194,Don't know/Refused (VOL.), Christian Scientists (VOL) ,8
+195,Don't know/Refused (VOL.), Don’t know/Refused (VOL) ,132
+196,Don't know/Refused (VOL.), Druid (VOL) ,1
+197,Don't know/Refused (VOL.)," Eclectic, a bit of everything, own beliefs (VOL) ",1
+198,Don't know/Refused (VOL.), Hindu ,34
+199,Don't know/Refused (VOL.), Jehovah’s Witness (VOL) ,19
+200,Don't know/Refused (VOL.), Jewish (Judaism) ,180
+201,Don't know/Refused (VOL.), Mixed Christian and non-Christian (VOL) ,2
+202,Don't know/Refused (VOL.)," Mixed Christians (e.g., Catholic AND Protestant) (VOL) ",6
+203,Don't know/Refused (VOL.), Mormon (Church of Jesus Christ of Latter-day Saints/LDS) ,57
+204,Don't know/Refused (VOL.), Muslim (Islam) ,14
+205,Don't know/Refused (VOL.), Native American Religions (VOL) ,4
+206,Don't know/Refused (VOL.), Not Interpretable ,1
+207,Don't know/Refused (VOL.), Nothing in particular ,390
+208,Don't know/Refused (VOL.)," Orthodox (Greek, Russian, or some other orthodox church) ",71
+209,Don't know/Refused (VOL.), Protestant ,3170
+210,Don't know/Refused (VOL.), Roman Catholic ,1856
+211,Don't know/Refused (VOL.), Self realization (VOL) ,1
+212,Don't know/Refused (VOL.), Shamanism (non-Western) (VOL) ,1
+213,Don't know/Refused (VOL.), Sikh (VOL) ,1
+214,Don't know/Refused (VOL.), Unitarian (Universalist) (VOL) ,5
+215,Don't know/Refused (VOL.), Unity; Unity Church Christ Church Unity (VOL) ,1
+216,Don't know/Refused (VOL.), Zoroastrianism (VOL) ,3
+217,"Less than $10,000", Agnostic (not sure if there is a God) ,2
+218,"Less than $10,000", Atheist (do not believe in God) ,10
+219,"Less than $10,000", Buddhist ,5
+220,"Less than $10,000", Christian (VOL) ,29
+221,"Less than $10,000", Christian Scientists (VOL) ,2
+222,"Less than $10,000", Don’t know/Refused (VOL) ,13
+223,"Less than $10,000", Hindu ,1
+224,"Less than $10,000", Jehovah’s Witness (VOL) ,13
+225,"Less than $10,000", Jewish (Judaism) ,12
+226,"Less than $10,000"," Mixed Christians (e.g., Catholic AND Protestant) (VOL) ",1
+227,"Less than $10,000", Mormon (Church of Jesus Christ of Latter-day Saints/LDS) ,29
+228,"Less than $10,000", Muslim (Islam) ,6
+229,"Less than $10,000", Native American Religions (VOL) ,1
+230,"Less than $10,000", Nothing in particular ,145
+231,"Less than $10,000"," Orthodox (Greek, Russian, or some other orthodox church) ",14
+232,"Less than $10,000", Pagan (VOL) ,1
+233,"Less than $10,000", Protestant ,1115
+234,"Less than $10,000", Roman Catholic ,526
+235,"Less than $10,000", Spiritualist (VOL) ,1
+236,"Less than $10,000", Unitarian (Universalist) (VOL) ,2
+237,"Less than $10,000", Wica (Wiccan) (VOL) ,1
+238,"Less than $10,000", Zoroastrianism (VOL) ,1

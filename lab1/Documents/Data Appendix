@@ -1,0 +1,3 @@
+Data work jest wykonywany poprzez uruchomienie skryptu main.py z Command-Files. Zanim zostanie on uruchomiony należy skonwertować dane przy użyciu skryptu run.bash z tego samego folderu.
+
+Utworzony plik income-and-religion.csv prezentuje ilość osób wyznających daną religię na poszczególnych poziomach zarobków.
